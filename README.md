@@ -14,7 +14,7 @@
   <input type="text" id="email" name="email" value="juandelacruz@gmail.com"><br>
   <label for="lname">Last name:</label><br>
   <input type="text" id="pass" name="pass" value="Password"><br><br>
-  <input type="Continue" value="Continue">
+  <input type="submit" value="Submit">
   <input type="reset">
 </form> 
 

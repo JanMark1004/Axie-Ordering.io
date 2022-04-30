@@ -11,11 +11,12 @@
 
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="John"><br>
+  <input type="text" id="email" name="email" value="juandelacruz@gmail.com"><br>
   <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="text" id="pass" name="pass" value="Password"><br><br>
   <input type="submit" value="Submit">
   <input type="reset">
 </form> 
 
 <p>If you change the input values and then click the "Reset" button, the form-data will be reset to the default values.</p>
+<input type="button" onclick="alert('Hello World!')" value="Click Me!">
